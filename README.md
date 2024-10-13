@@ -2,12 +2,12 @@
 
 ### About Me
 
-- 💻 I'm a Software Developer specializing in [Your Field].
-- 🎓 I hold a degree in [Your Degree/Certifications].
-- 🔭 I’m currently working on [Your Current Projects].
-- 🌱 I’m currently learning [New Technologies/Skills you're learning].
-- 📫 How to reach me: [Your Email Address].
-- 🌐 Follow me on [Your Social Media Accounts].
+- 💻 I'm a Software Developer specializing in 
+- 🎓 I hold a degree in 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
+- 📫 How to reach me: 
+- 🌐 Follow me on 
 
 ---
 
@@ -21,8 +21,7 @@
 
 ### 🚀 Featured Projects
 
-- [Project 1 Name](project_link) - A brief description of the project.
-- [Project 2 Name](project_link) - A brief description of the project.
+
 
 ---
 
@@ -49,8 +48,7 @@
 
 ### 🌟 Certifications & Courses
 
-- [Certification/Course 1](certificate_link) - Brief description.
-- [Certification/Course 2](certificate_link) - Brief description.
+
 
 ---
 
